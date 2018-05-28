@@ -1,2 +1,0 @@
-# whysomany
-why
